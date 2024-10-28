@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danieldnv
+-  I’m @Danieldnv
 -  I study Economics
 - I’m currently learning Python, R and Data Science related topics
 
