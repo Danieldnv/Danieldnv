@@ -1,5 +1,5 @@
 -  I’m Daniel
--  I study Economics
+-  I study Economics at university
 - I’m currently learning Python, R and Data Science related topics
 
 <!---
