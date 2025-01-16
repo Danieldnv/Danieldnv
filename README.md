@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Danieldnv/cqg/blob/main/IMG_8595.jpeg" width="100%" > 
-</p> 
+
 
 -  I’m Daniel
 -  I study Economics at university
