@@ -1,7 +1,7 @@
 
 
 -  I’m Daniel
--  I am pursuing a Bachelor's in Economics
+-  Intern at Multinvest Capital | pursuing a Bachelor's in Economics
 -  Currently learning Python, R, LaTex and Data Science related topics
 
 <!---
